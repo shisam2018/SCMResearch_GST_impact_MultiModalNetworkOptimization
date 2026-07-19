@@ -1,0 +1,21 @@
+stockyard,state,tier,open_pre_gst,open_post_gst,status
+Delhi,Delhi,Type-1,True,False,Closed post-GST
+Mumbai,Maharashtra,Type-2,True,True,Retained
+Kolkata,West Bengal,Type-3,True,False,Closed post-GST
+Chennai,Tamil Nadu,Type-1,True,True,Retained
+Bangalore,Karnataka,Type-2,True,False,Closed post-GST
+Hyderabad,Telangana,Type-3,True,True,Retained
+Ahmedabad,Gujarat,Type-1,True,False,Closed post-GST
+Pune,Maharashtra,Type-2,False,False,Never opened
+Jaipur,Rajasthan,Type-3,True,True,Retained
+Lucknow,Uttar Pradesh,Type-1,True,True,Retained
+Nagpur,Maharashtra,Type-2,True,True,Retained
+Patna,Bihar,Type-3,True,False,Closed post-GST
+Bhopal,Madhya Pradesh,Type-1,True,True,Retained
+Indore,Madhya Pradesh,Type-2,False,False,Never opened
+Chandigarh,Chandigarh,Type-3,True,True,Retained
+Guwahati,Assam,Type-1,True,True,Retained
+Bhubaneswar,Odisha,Type-2,False,False,Never opened
+Raipur,Chhattisgarh,Type-3,True,False,Closed post-GST
+Coimbatore,Tamil Nadu,Type-1,False,False,Never opened
+Vijayawada,Andhra Pradesh,Type-2,True,True,Retained

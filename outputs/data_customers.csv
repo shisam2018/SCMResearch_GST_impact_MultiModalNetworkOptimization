@@ -1,0 +1,33 @@
+customer,state,lat,lon,demand_flat_kt,demand_long_kt,coastal_linked
+Delhi,Delhi,28.7,77.1,51.8,42.2,False
+Mumbai,Maharashtra,19.08,72.88,40.0,32.0,True
+Kolkata,West Bengal,22.57,88.36,35.6,28.4,True
+Chennai,Tamil Nadu,13.08,80.27,38.3,26.6,True
+Bangalore,Karnataka,12.97,77.59,79.6,63.6,False
+Hyderabad,Telangana,17.39,78.49,57.8,45.3,False
+Ahmedabad,Gujarat,23.02,72.57,30.3,26.8,False
+Pune,Maharashtra,18.52,73.86,51.4,38.6,False
+Jaipur,Rajasthan,26.91,75.79,44.6,33.8,False
+Lucknow,Uttar Pradesh,26.85,80.95,22.2,17.0,False
+Nagpur,Maharashtra,21.15,79.09,24.7,19.9,False
+Patna,Bihar,25.59,85.14,47.9,33.6,False
+Bhopal,Madhya Pradesh,23.26,77.41,78.6,61.5,False
+Indore,Madhya Pradesh,22.72,75.86,35.9,26.1,False
+Chandigarh,Chandigarh,30.73,76.78,34.3,25.6,False
+Guwahati,Assam,26.14,91.74,43.6,31.5,False
+Bhubaneswar,Odisha,20.3,85.82,31.1,26.9,False
+Raipur,Chhattisgarh,21.25,81.63,36.3,25.8,False
+Coimbatore,Tamil Nadu,11.02,76.97,37.9,33.0,False
+Vijayawada,Andhra Pradesh,16.51,80.65,26.1,22.1,False
+Kanpur,Uttar Pradesh,26.45,80.33,57.6,45.8,False
+Ludhiana,Punjab,30.9,75.86,23.6,22.4,False
+Surat,Gujarat,21.17,72.83,21.3,18.7,True
+Visakhapatnam,Andhra Pradesh,17.69,83.22,45.5,36.7,True
+Kochi,Kerala,9.93,76.26,53.8,41.6,True
+Varanasi,Uttar Pradesh,25.32,82.97,44.5,34.7,False
+Dehradun,Uttarakhand,30.32,78.03,37.6,30.7,False
+Siliguri,West Bengal,26.73,88.43,35.1,26.4,False
+Rajkot,Gujarat,22.3,70.8,33.3,28.7,False
+Madurai,Tamil Nadu,9.93,78.12,65.4,47.8,False
+Amritsar,Punjab,31.63,74.87,48.8,38.0,False
+Ranchi,Jharkhand,23.34,85.31,35.7,25.9,False

@@ -1,0 +1,21 @@
+stockyard,state,lat,lon,tier,throughput_cap_kt,fixed_cost_usd,handling_cost_usd_per_ton,coastal
+Delhi,Delhi,28.7,77.1,Type-1,507.0,641265.0,3.53,False
+Mumbai,Maharashtra,19.08,72.88,Type-2,320.0,225586.0,2.819,True
+Kolkata,West Bengal,22.57,88.36,Type-3,232.0,247062.0,3.349,True
+Chennai,Tamil Nadu,13.08,80.27,Type-1,459.0,577482.0,3.41,True
+Bangalore,Karnataka,12.97,77.59,Type-2,196.0,131908.0,2.843,False
+Hyderabad,Telangana,17.39,78.49,Type-3,299.0,307872.0,3.012,False
+Ahmedabad,Gujarat,23.02,72.57,Type-1,467.0,601881.0,3.494,False
+Pune,Maharashtra,18.52,73.86,Type-2,459.0,335483.0,2.94,False
+Jaipur,Rajasthan,26.91,75.79,Type-3,481.0,472795.0,3.337,False
+Lucknow,Uttar Pradesh,26.85,80.95,Type-1,183.0,263962.0,3.313,False
+Nagpur,Maharashtra,21.15,79.09,Type-2,396.0,284773.0,2.819,False
+Patna,Bihar,25.59,85.14,Type-3,290.0,325562.0,3.133,False
+Bhopal,Madhya Pradesh,23.26,77.41,Type-1,232.0,292256.0,3.289,False
+Indore,Madhya Pradesh,22.72,75.86,Type-2,363.0,288398.0,3.0,False
+Chandigarh,Chandigarh,30.73,76.78,Type-3,315.0,343902.0,3.289,False
+Guwahati,Assam,26.14,91.74,Type-1,415.0,573267.0,3.602,False
+Bhubaneswar,Odisha,20.3,85.82,Type-2,373.0,253744.0,2.88,False
+Raipur,Chhattisgarh,21.25,81.63,Type-3,501.0,527529.0,3.337,False
+Coimbatore,Tamil Nadu,11.02,76.97,Type-1,365.0,508315.0,3.518,False
+Vijayawada,Andhra Pradesh,16.51,80.65,Type-2,215.0,145207.0,2.855,False

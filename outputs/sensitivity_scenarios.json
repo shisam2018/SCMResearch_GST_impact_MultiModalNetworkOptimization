@@ -1,0 +1,44 @@
+{
+  "Baseline (model-optimised)": {
+    "total_cost": 53117210.39999998,
+    "delta": 0.0,
+    "delta_pct": 0.0,
+    "n_open": 10
+  },
+  "Force-close Mumbai": {
+    "total_cost": 54758454.799999975,
+    "delta": 1641244.399999991,
+    "delta_pct": 3.089854281956026,
+    "n_open": 11
+  },
+  "Force-close Chennai": {
+    "total_cost": 55061251.499999985,
+    "delta": 1944041.1000000015,
+    "delta_pct": 3.6599081265005626,
+    "n_open": 11
+  },
+  "Force-close Guwahati": {
+    "total_cost": 53197390.69999998,
+    "delta": 80180.29999999702,
+    "delta_pct": 0.15094975695485138,
+    "n_open": 10
+  },
+  "Force-open Kolkata": {
+    "total_cost": 53197390.69999998,
+    "delta": 80180.29999999702,
+    "delta_pct": 0.15094975695485138,
+    "n_open": 10
+  },
+  "Force-open Patna": {
+    "total_cost": 53500013.59999998,
+    "delta": 382803.19999999553,
+    "delta_pct": 0.7206764005814501,
+    "n_open": 11
+  },
+  "Force-open Delhi": {
+    "total_cost": 53199220.79999999,
+    "delta": 82010.40000000596,
+    "delta_pct": 0.15439515626371444,
+    "n_open": 11
+  }
+}

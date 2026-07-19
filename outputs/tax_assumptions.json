@@ -1,0 +1,7 @@
+{
+  "pre_gst_cross_state_rate": 0.025,
+  "post_gst_rate": 0.18,
+  "unit_value_flat_usd_per_ton": 626.51,
+  "unit_value_long_usd_per_ton": 530.12,
+  "min_economic_volume_kt": 30.0
+}
