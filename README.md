@@ -6,6 +6,8 @@ see manuscript]"*. It reproduces, on a synthetic-but-realistic dataset, the
 pre-GST / post-GST outbound-logistics network re-optimisation problem for
 an Indian steel-sector original equipment manufacturer (OEM).
 
+APP URL: https://steel-network-optimization-gst.streamlit.app/
+
 ## What is included
 
 | File | Purpose |
